@@ -1,0 +1,725 @@
+
+Gurobi 8.1.1 (win64, Python) logging started 07/02/19 10:23:29
+
+Academic license - for non-commercial use only
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [3e+03, 3e+03]
+  QObjective range [3e+02, 3e+02]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 3.89572850e+05
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [3e+03, 3e+03]
+  QObjective range [3e+02, 3e+02]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 3.89572850e+05
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [2e+02, 2e+02]
+  QObjective range [2e+01, 2e+01]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 2.32715234e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [2e+02, 2e+02]
+  QObjective range [2e+01, 2e+01]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 2.13016284e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [2e+02, 2e+02]
+  QObjective range [2e+01, 2e+01]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 2.15516284e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [2e+02, 2e+02]
+  QObjective range [2e+01, 2e+01]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 2.18016284e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [2e+02, 2e+02]
+  QObjective range [2e+01, 2e+01]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Optimal objective 2.18016284e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 8.67065134e+03
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 8.67065134e+03
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 8.67065134e+03
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 8.62065134e+03
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 8.62065134e+03
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Optimal objective 2.20720651e+05
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 2.17370651e+05
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 1.84320651e+05
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 2.59066093e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 2.57726093e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [9e+01, 9e+01]
+  QObjective range [8e+00, 8e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Optimal objective 2.44506093e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e+02, 1e+02]
+  QObjective range [1e+01, 1e+01]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 3.88599140e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e+02, 1e+02]
+  QObjective range [1e+01, 1e+01]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 3.86589140e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Optimal objective 1.22253047e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e+02, 1e+02]
+  QObjective range [1e+01, 1e+01]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 3.88599140e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [1e+02, 1e+02]
+  QObjective range [1e+01, 1e+01]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 3.86589140e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Optimal objective 4.15430467e+03
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.03 seconds
+Optimal objective  0.000000000e+00
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  0.000000000e+00
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 4.15430467e+03
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 1.29533047e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Optimal objective 1.28863047e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Optimal objective 4.15430467e+03
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 1.29533047e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Optimal objective 1.28863047e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Optimal objective 1.22253047e+04
+
+Gurobi 8.1.1 (win64, Python) logging started 07/09/19 16:32:18
+
+Academic license - for non-commercial use only
+
+Gurobi 8.1.1 (win64, Python) logging started 07/12/19 23:21:25
+
+Academic license - for non-commercial use only
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.3100320e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  1.310032000e+04
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.3033320e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  1.303332000e+04
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.2372320e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  1.237232000e+04
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.4008844e+07   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  6.400884380e+07
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.3033320e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  1.303332000e+04
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.2372320e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  1.237232000e+04
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.4008844e+07   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  6.400884380e+07
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.3033320e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  1.303332000e+04
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.2372320e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  1.237232000e+04
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.0814371e+07   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  6.081437089e+07
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.3033320e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  1.303332000e+04
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.02s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    1.2372320e+04   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.03 seconds
+Optimal objective  1.237232000e+04
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.0814371e+07   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  6.081437089e+07
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.0814304e+07   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.01 seconds
+Optimal objective  6.081430389e+07
+Optimize a model with 0 rows, 0 columns and 0 nonzeros
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.0813643e+07   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  6.081364289e+07
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [9e-01, 9e-01]
+  Bounds range     [3e+01, 5e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 1.26850158e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [2e+01, 2e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.03s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.03 seconds
+Optimal objective 1.30400740e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [2e+01, 2e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.02 seconds
+Optimal objective 1.29730740e+04
+Optimize a model with 0 rows, 1 columns and 0 nonzeros
+Model has 1 quadratic objective term
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [4e+01, 4e+01]
+  QObjective range [4e+00, 4e+00]
+  Bounds range     [2e+01, 2e+01]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 0 rows and 1 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.01 seconds
+Optimal objective 1.23120740e+04
