@@ -1,5 +1,5 @@
 # Smart Energy System
-## Optimization using Apache Gurobi
+## Optimization using Gurobi
 
 * Minimize Energy Consumption
 * Minimize Charging Cost
